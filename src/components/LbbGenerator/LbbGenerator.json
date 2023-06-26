@@ -1,0 +1,461 @@
+{
+  "backgrounds": [
+    {
+      "id": "bg1",
+      "name": "Black",
+      "image": "../../Traits/Background/Black.png"
+    },
+    {
+      "id": "bg2",
+      "name": "Blue",
+      "image": "../../Traits/Background/Blue.png"
+    },
+    {
+      "id": "bg3",
+      "name": "Gold",
+      "image": "../../Traits/Background/Gold.png"
+    },
+    {
+      "id": "bg4",
+      "name": "Green",
+      "image": "../../Traits/Background/Green.png"
+    },
+    {
+      "id": "bg5",
+      "name": "Light Blue",
+      "image": "../../Traits/Background/Light Blue.png"
+    },
+    {
+      "id": "bg6",
+      "name": "Pink",
+      "image": "../../Traits/Background/Pink.png"
+    },
+    {
+      "id": "bg7",
+      "name": "Purple",
+      "image": "../../Traits/Background/Purple.png"
+    },
+    {
+      "id": "bg8",
+      "name": "Red",
+      "image": "../../Traits/Background/Red.png"
+    },
+    {
+      "id": "bg9",
+      "name": "White",
+      "image": "../../Traits/Background/White.png"
+    },
+    {
+      "id": "bg10",
+      "name": "Yellow",
+      "image": "../../Traits/Background/Yellow.png"
+    }
+  ],
+  "hats": [
+    {
+      "id": "hat1",
+      "name": "Arrow",
+      "image": "../../Traits/Hats/Arrow.png"
+    },
+    {
+      "id": "hat2",
+      "name": "Black Cap",
+      "image": "../../Traits/Hats/Black Cap.png"
+    },
+    {
+      "id": "hat3",
+      "name": "Blue Fancy Hat",
+      "image": "../../Traits/Hats/Blue Fancy Hat.png"
+    },
+    {
+      "id": "hat4",
+      "name": "Blue Pirate Hat",
+      "image": "../../Traits/Hats/Blue Pirate Hat.png"
+    },
+    {
+      "id": "hat5",
+      "name": "Light Green Pirate Hat",
+      "image": "../../Traits/Hats/Light Green Pirate Hat.png"
+    },
+    {
+      "id": "hat6",
+      "name": "Cartman Beanie",
+      "image": "../../Traits/Hats/Cartman Beanie.png"
+    },
+    {
+      "id": "hat7",
+      "name": "Stanley Beanie",
+      "image": "../../Traits/Hats/Stanley Beanie.png"
+    },
+    {
+      "id": "hat8",
+      "name": "Celestial Halo",
+      "image": "../../Traits/Hats/Celestial Halo.png"
+    },
+    {
+      "id": "hat9",
+      "name": "Construction Helmet",
+      "image": "../../Traits/Hats/Construction Helmet.png"
+    },
+    {
+      "id": "hat10",
+      "name": "Cowboy Hat",
+      "image": "../../Traits/Hats/Cowboy Hat.png"
+    },
+    {
+      "id": "hat11",
+      "name": "Green Beret",
+      "image": "../../Traits/Hats/Green Beret.png"
+    },
+    {
+      "id": "hat12",
+      "name": "Green Mohawk",
+      "image": "../../Traits/Hats/Green Mohawk.png"
+    },
+    {
+      "id": "hat13",
+      "name": "Horns",
+      "image": "../../Traits/Hats/Horns.png"
+    },
+    {
+      "id": "hat14",
+      "name": "Light Green Cap",
+      "image": "../../Traits/Hats/Light Green Cap.png"
+    },
+    {
+      "id": "hat15",
+      "name": "Lime Headphones",
+      "image": "../../Traits/Hats/Lime Headphones.png"
+    },
+    {
+      "id": "hat16",
+      "name": "Pink Little Hat",
+      "image": "../../Traits/Hats/Pink Little Hat.png"
+    },
+    {
+      "id": "hat17",
+      "name": "Purple Cap",
+      "image": "../../Traits/Hats/Purple Cap.png"
+    },
+    {
+      "id": "hat18",
+      "name": "Red Beret",
+      "image": "../../Traits/Hats/Red Beret.png"
+    },
+    {
+      "id": "hat19",
+      "name": "Red Fancy Hat",
+      "image": "../../Traits/Hats/Red Fancy Hat.png"
+    },
+    {
+      "id": "hat20",
+      "name": "Viking Helmet",
+      "image": "../../Traits/Hats/Viking Helmet.png"
+    },
+    {
+      "id": "hat21",
+      "name": "White Cap",
+      "image": "../../Traits/Hats/White Cap.png"
+    },
+    {
+      "id": "hat22",
+      "name": "White Headphones",
+      "image": "../../Traits/Hats/White Headphones.png"
+    },
+    {
+      "id": "hat23",
+      "name": "White Mohawk",
+      "image": "../../Traits/Hats/White Mohawk.png"
+    }
+  ],
+  "bodys": [
+    {
+      "id": "body1",
+      "name": "Alien Skin Man",
+      "image": "../../Traits/Body/Alien Skin Man.png"
+    },
+    {
+      "id": "body2",
+      "name": "Average man Skin",
+      "image": "../../Traits/Body/Average man Skin.png"
+    },
+    {
+      "id": "body3",
+      "name": "Candy Skin Man",
+      "image": "../../Traits/Body/Candy Skin Man.png"
+    },
+    {
+      "id": "body4",
+      "name": "Dark Skin Man",
+      "image": "../../Traits/Body/Dark Skin Man.png"
+    },
+    {
+      "id": "body5",
+      "name": "Gold Skin Man",
+      "image": "../../Traits/Body/Gold Skin Man.png"
+    },
+    {
+      "id": "body6",
+      "name": "Jelly Skin Man",
+      "image": "../../Traits/Body/Jelly Skin Man.png"
+    },
+    {
+      "id": "body7",
+      "name": "Pink Skin Man",
+      "image": "../../Traits/Body/Pink Skin Man.png"
+    },
+    {
+      "id": "body8",
+      "name": "Slime Skin Man",
+      "image": "../../Traits/Body/Slime Skin Man.png"
+    },
+    {
+      "id": "body9",
+      "name": "White Skin Man",
+      "image": "../../Traits/Body/White Skin Man.png"
+    },
+    {
+      "id": "body10",
+      "name": "Zombie Skin Man",
+      "image": "../../Traits/Body/Zombie Skin Man.png"
+    }
+  ],
+  "clothess": [
+    {
+      "id": "cloth1",
+      "name": "A t-shirt",
+      "image": "../../Traits/Clothes/A tshirt.png"
+    },
+    {
+      "id": "cloth2",
+      "name": "Black Jacket",
+      "image": "../../Traits/Clothes/Black Jacket.png"
+    },
+    {
+      "id": "cloth3",
+      "name": "Black Suit",
+      "image": "../../Traits/Clothes/Black Suit.png"
+    },
+    {
+      "id": "cloth4",
+      "name": "Blody t-shirt",
+      "image": "../../Traits/Clothes/Blody tshirt.png"
+    },
+    {
+      "id": "cloth5",
+      "name": "Blue Hoodie",
+      "image": "../../Traits/Clothes/Blue Hoodie.png"
+    },
+    {
+      "id": "cloth6",
+      "name": "Blue Suit",
+      "image": "../../Traits/Clothes/Blue Suit.png"
+    },
+    {
+      "id": "cloth7",
+      "name": "Blue Vest",
+      "image": "../../Traits/Clothes/Blue Vest.png"
+    },
+    {
+      "id": "cloth8",
+      "name": "Branded t-shirt",
+      "image": "../../Traits/Clothes/Branded tshirt.png"
+    },
+    {
+      "id": "cloth9",
+      "name": "Brown t-shirt",
+      "image": "../../Traits/Clothes/Brown tshirt.png"
+    },
+    {
+      "id": "cloth10",
+      "name": "Construction Vest",
+      "image": "../../Traits/Clothes/Construction Vest.png"
+    },
+    {
+      "id": "cloth11",
+      "name": "Cowboy Jacket",
+      "image": "../../Traits/Clothes/Cowboy Jacket.png"
+    },
+    {
+      "id": "cloth12",
+      "name": "Elegant Jacket",
+      "image": "../../Traits/Clothes/Elegant Jacket.png"
+    },
+    {
+      "id": "cloth13",
+      "name": "Gray camouflage t-shirt",
+      "image": "../../Traits/Clothes/Gray camouflage tshirt.png"
+    },
+    {
+      "id": "cloth14",
+      "name": "Green camouflage t-shirt",
+      "image": "../../Traits/Clothes/Green camouflage tshirt.png"
+    },
+    {
+      "id": "cloth15",
+      "name": "Green Jacket",
+      "image": "../../Traits/Clothes/Green Jacket.png"
+    },
+    {
+      "id": "cloth16",
+      "name": "Light Blue Hoddie",
+      "image": "../../Traits/Clothes/Light Blue Hoddie.png"
+    },
+    {
+      "id": "cloth17",
+      "name": "Multicolor t-shirt",
+      "image": "../../Traits/Clothes/Multicolor tshirt.png"
+    },
+    {
+      "id": "cloth18",
+      "name": "Number 9 t-shirt",
+      "image": "../../Traits/Clothes/Number 9 tshirt.png"
+    },
+    {
+      "id": "cloth19",
+      "name": "Number 10 t-shirt",
+      "image": "../../Traits/Clothes/Number 10 tshirt.png"
+    },
+    {
+      "id": "cloth20",
+      "name": "Pink Jacket",
+      "image": "../../Traits/Clothes/Pink Jacket.png"
+    },
+    {
+      "id": "cloth21",
+      "name": "Red Dot t-shirt",
+      "image": "../../Traits/Clothes/Red Dot tshirt.png"
+    },
+    {
+      "id": "cloth22",
+      "name": "Red Vest",
+      "image": "../../Traits/Clothes/Red Vest.png"
+    },
+    {
+      "id": "cloth23",
+      "name": "Skull t-shirt",
+      "image": "../../Traits/Clothes/Skull tshirt.png"
+    },
+    {
+      "id": "cloth24",
+      "name": "Striped Shirt",
+      "image": "../../Traits/Clothes/Striped Shirt.png"
+    },
+    {
+      "id": "cloth25",
+      "name": "Two tone t-shirt",
+      "image": "../../Traits/Clothes/Two tone tshirt.png"
+    },
+    {
+      "id": "cloth26",
+      "name": "White t-shirt",
+      "image": "../../Traits/Clothes/White tshirt.png"
+    },
+    {
+      "id": "cloth27",
+      "name": "Yellow Suit",
+      "image": "../../Traits/Clothes/Yellow Suit.png"
+    }
+  ],
+  "barrels": [
+    {
+      "id": "barrel1",
+      "name": "Blue Barrel",
+      "image": "../../Traits/Barrel/Blue Barrel.png"
+    },
+    {
+      "id": "barrel2",
+      "name": "Brown Barrel",
+      "image": "../../Traits/Barrel/Brown Barrel.png"
+    },
+    {
+      "id": "barrel3",
+      "name": "Green Barrel",
+      "image": "../../Traits/Barrel/Green Barrel.png"
+    },
+    {
+      "id": "barrel4",
+      "name": "Purple Barrel",
+      "image": "../../Traits/Barrel/Purple Barrel.png"
+    },
+    {
+      "id": "barrel5",
+      "name": "Red Barrel",
+      "image": "../../Traits/Barrel/Red Barrel.png"
+    },
+    {
+      "id": "barrel6",
+      "name": "Yellow Barrel",
+      "image": "../../Traits/Barrel/Yellow Barrel.png"
+    }
+  ],
+  "letters": [
+    {
+      "id": "letter1",
+      "name": "777",
+      "image": "../../Traits/Letters/777.png"
+    },
+    {
+      "id": "letter2",
+      "name": "LBB",
+      "image": "../../Traits/Letters/LBB.png"
+    },
+    {
+      "id": "letter3",
+      "name": "TNT",
+      "image": "../../Traits/Letters/TNT.png"
+    }
+  ],
+  "mouths": [
+    {
+      "id": "mouth1",
+      "name": "Angry",
+      "image": "../../Traits/Mouth/Angry.png"
+    },
+    {
+      "id": "mouth2",
+      "name": "Golden Tooth",
+      "image": "../../Traits/Mouth/Golden Tooth.png"
+    },
+    {
+      "id": "mouth3",
+      "name": "Happy",
+      "image": "../../Traits/Mouth/Happy.png"
+    },
+    {
+      "id": "mouth4",
+      "name": "Mischievous",
+      "image": "../../Traits/Mouth/Mischievous.png"
+    },
+    {
+      "id": "mouth5",
+      "name": "Pipe",
+      "image": "../../Traits/Mouth/Pipe.png"
+    },
+    {
+      "id": "mouth6",
+      "name": "Serious",
+      "image": "../../Traits/Mouth/Serious.png"
+    },
+    {
+      "id": "mouth7",
+      "name": "Smiling",
+      "image": "../../Traits/Mouth/Smiling.png"
+    },
+    {
+      "id": "mouth8",
+      "name": "Smoking",
+      "image": "../../Traits/Mouth/Smoking.png"
+    },
+    {
+      "id": "mouth9",
+      "name": "Surprised",
+      "image": "../../Traits/Mouth/Surprised.png"
+    },
+    {
+      "id": "mouth10",
+      "name": "Zombie Teeth",
+      "image": "../../Traits/Mouth/Zombie Teeth.png"
+    }
+  ]
+}

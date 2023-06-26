@@ -1,0 +1,69 @@
+.MonitorSecondSecction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: rgb(23,45,46);
+background: -moz-linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+background: -webkit-linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+background: linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#172d2e",endColorstr="#29575e",GradientType=1);
+}
+
+.MonitorSecondSectionBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+
+.MonitorSecondImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.MonitorSecondImage img {
+    display: flex;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.MonitorSecondText {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 30px;
+    /* border: 2px solid rebeccapurple; */
+}
+
+.MonitorSecondText h3 {
+    color: #9544fd;
+    font-size: 2rem;
+    letter-spacing: 3px;
+}
+
+.MonitorSecondText p {
+    color: white;
+}
+
+@media screen and (max-width: 1024px) {
+    .MonitorSecondSectionBox {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .MonitorSecondSectionBox {
+        flex-direction: column-reverse;
+    }
+    .MonitorHomeImage img {
+        width: 70%;
+    }
+    .MonitorSecondImage img {
+        width: 70%;
+    }
+}

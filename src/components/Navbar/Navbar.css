@@ -1,0 +1,116 @@
+a {
+    text-decoration: none;
+}
+
+.NavbarSection {
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 30vh;
+    /* border: 2px solid red; */
+}
+
+.NavbarMonitor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    height: 100%;
+    /* border: 2px solid red; */
+}
+
+.NavbarTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    margin-top: -40px;
+    /* border: 2px solid red; */
+}
+
+.NavbarTitle h2 {
+    color: #02ffc2;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+}
+
+.NavbarSocials {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    /* border: 2px solid blue; */
+}
+
+.BtnSocials {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.BtnSocials a {
+    border: 3px solid #136d72;
+    color: #02ffc2;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: 0.2s;
+}
+
+.BtnSocials a:hover {
+    border: 3px solid rgba(23, 45, 46, 0)
+}
+
+.curved {
+    position: relative;
+    background: rgb(23,45,46);
+    background: -moz-linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+    background: -webkit-linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+    background: linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#172d2e",endColorstr="#29575e",GradientType=1);
+    border-bottom-left-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .NavbarMonitor {
+        width: 55%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .NavbarMonitor {
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .NavbarMonitor {
+        width: 85%;
+    }
+    .curved {
+        border-bottom-left-radius: 50% 20%;
+        border-bottom-right-radius: 50% 20%;
+      }
+      .NavbarTitle h2 {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .BtnSocials a {
+        font-size: 0.9rem;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .NavbarTitle h2 {
+        font-size: 1.3rem;
+    }
+}

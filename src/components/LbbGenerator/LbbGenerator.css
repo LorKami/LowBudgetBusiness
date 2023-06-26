@@ -1,0 +1,176 @@
+.MenuSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* border: 2px solid red; */
+    background: rgb(23,45,46);
+background: -moz-linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+background: -webkit-linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+background: linear-gradient(84deg, rgba(23,45,46,1) 0%, rgba(41,87,94,1) 98%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#172d2e",endColorstr="#29575e",GradientType=1);
+}
+
+.MenuSectionInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+.MenuSectionInfo h2 {
+    color: #02ffc2;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+    margin-bottom: 0px;
+}
+
+.MenuSectionInfo h3 {
+    color: #9544fd;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin-bottom: -40px;
+}
+
+.MenuSectionInfo p {
+    color: white;
+    text-align: center;
+}
+
+.MenuSectionJustify {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 100%;
+    /* border: 2px solid red; */
+}
+
+.MenuSectionLeft {
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    width: 100%;
+    /* border: 2px solid blue; */
+}
+
+.MenuSectionRight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: 2px solid yellow; */
+}
+
+.ImageRight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.ImageRight img {
+    display: flex;
+    position: absolute;
+    width: 20%;
+}
+
+.DwImage {
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    /* border: 2px solid red; */
+}
+
+.DwImage button {
+    border: 3px solid #136d72;
+    color: #02ffc2;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: 0.2s;
+    background-color: rgb(23,45,46);
+}
+
+.DwImage button:hover {
+    cursor: pointer;
+    border: 3px solid rgba(23, 45, 46, 0);
+    background-color: rgba(23, 45, 46, 0);
+}
+
+.MenuList h2 {
+    color: #02ffc2;
+    font-size: 1rem;
+    margin-bottom: 0px;
+    /* border: 2px solid red; */
+}
+
+.SelectNav {
+    cursor: pointer;
+    width: 80%;
+    height: 30px;
+    border-radius: 5px;
+    /* border: 2px solid rgb(0, 238, 255); */
+}
+
+
+.GeneratedImage {
+    width: 450px;
+    height: 450px;
+}
+
+@media screen and (max-width: 1024px) {
+    .MenuSectionInfo {
+        width: 60%;
+    }
+    .MenuSectionJustify {
+        width: 85%;
+    }
+    .GeneratedImage {
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .MenuSectionInfo {
+        width: 90%;
+    }
+    .MenuSectionJustify {
+        width: 85%;
+    }
+    .GeneratedImage {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .MenuSectionJustify {
+        flex-direction: column;
+    }
+    .DwImage {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    } 
+    .MenuSectionInfo h2 {
+        font-size: 2rem;
+    }
+    .MenuSectionInfo h3 {
+        margin-bottom: -20px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .MenuSectionInfo h2 {
+        font-size: 1.7rem;
+    }
+}
