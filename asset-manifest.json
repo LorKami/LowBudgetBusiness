@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.cd456926.css",
-    "main.js": "/static/js/main.78865dbc.js",
+    "main.js": "/static/js/main.a833dbd1.js",
     "static/media/barrellbb.gif": "/static/media/barrellbb.10d7d50fa57fcc2754e6.gif",
     "static/media/collection.png": "/static/media/collection.e2f2a729427e86101b06.png",
     "static/media/launch.png": "/static/media/launch.33a2e0b1e4ceabceb80d.png",
     "index.html": "/index.html",
     "main.cd456926.css.map": "/static/css/main.cd456926.css.map",
-    "main.78865dbc.js.map": "/static/js/main.78865dbc.js.map"
+    "main.a833dbd1.js.map": "/static/js/main.a833dbd1.js.map"
   },
   "entrypoints": [
     "static/css/main.cd456926.css",
-    "static/js/main.78865dbc.js"
+    "static/js/main.a833dbd1.js"
   ]
 }
