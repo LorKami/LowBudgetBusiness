@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.cf7995c0.css",
-    "main.js": "/static/js/main.de92a113.js",
+    "main.js": "/static/js/main.b7e4489c.js",
     "static/media/barrellbb.gif": "/static/media/barrellbb.10d7d50fa57fcc2754e6.gif",
     "static/media/collection.png": "/static/media/collection.e2f2a729427e86101b06.png",
     "index.html": "/index.html",
     "main.cf7995c0.css.map": "/static/css/main.cf7995c0.css.map",
-    "main.de92a113.js.map": "/static/js/main.de92a113.js.map"
+    "main.b7e4489c.js.map": "/static/js/main.b7e4489c.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7995c0.css",
-    "static/js/main.de92a113.js"
+    "static/js/main.b7e4489c.js"
   ]
 }
