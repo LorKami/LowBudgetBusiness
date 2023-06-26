@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc3eca47.css",
+    "main.js": "/static/js/main.fcd2cba4.js",
+    "static/media/barrellbb.gif": "/static/media/barrellbb.10d7d50fa57fcc2754e6.gif",
+    "static/media/collection.png": "/static/media/collection.e2f2a729427e86101b06.png",
+    "index.html": "/index.html",
+    "main.bc3eca47.css.map": "/static/css/main.bc3eca47.css.map",
+    "main.fcd2cba4.js.map": "/static/js/main.fcd2cba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3eca47.css",
+    "static/js/main.fcd2cba4.js"
+  ]
+}
